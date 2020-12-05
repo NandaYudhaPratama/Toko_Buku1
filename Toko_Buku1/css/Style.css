@@ -1,0 +1,49 @@
+﻿.navbar {
+    padding: auto;
+}
+.nav-pad {
+    margin-right: 30px;
+}
+.jumbotron .display-1 {
+    text-align: center;
+    font-size: 50px;
+    line-height: 530px;
+    margin-bottom: -200px;
+    text-shadow: 1px 1px 1px rgba(0,0,0, 1);
+}
+.display-2 {
+    text-align: center;
+    font-size: 50px;
+    line-height: 1px;
+    text-shadow: 1px 1px 1px rgba(0,0,0, 1);
+}
+
+/*Dekstop version*/
+@media (min-width: 992px) {
+    .nav-link {
+        text-shadow: 1px 1px 1px rgb(0, 0, 0 5);
+    }
+    .jumbotron {
+        margin-top: -75px;
+    }
+    .jumbotron2 {
+        margin-top: -75px;
+    }
+}
+
+.tombol {
+    border-radius: 40px;
+}
+
+.jumbotron {
+    background-image: url('../img/bg.jpg');
+    background-size: cover;
+    height: 764px;
+}
+
+.jumbotron2 {
+    background-image: url('../img/bg2.jpg');
+    background-size: cover;
+    height: 764px;
+}
+
