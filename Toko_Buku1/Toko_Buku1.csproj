@@ -71,7 +71,10 @@
     <Content Include="css\Style.css" />
     <Content Include="img\bg.jpg" />
     <Content Include="img\bg2.jpg" />
+    <Content Include="img\buku\PsikologiIndonesia.JPG" />
     <Content Include="img\Logo.png" />
+    <Content Include="img\Buku1.png" />
+    <Content Include="img\Buku2.png" />
     <Content Include="Login.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -110,7 +113,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>50315</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:50315/</IISUrl>
+          <IISUrl>http://localhost:3000/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
