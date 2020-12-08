@@ -28,6 +28,7 @@
                         <a class="nav-link nav-pad" href="#">Contact US</a>
                         <a type="button" class="nav-pad btn btn-primary tombol" data-toggle="modal" data-target="#Login" >Login</a>
                         <a type="button" class="nav-pad btn btn-primary tombol" data-toggle="modal" data-target="#Account" >Create Account</a>
+                        <a href="Buku.aspx">Halaman setelah user login</a>
                     </div>
                 </div>
               </div>
@@ -72,7 +73,7 @@
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-            <button type="button" class="btn btn-primary">Create Acount</button>
+            <button type="button" class="btn btn-primary">Create Account</button>
           </div>
         </div>
       </div>

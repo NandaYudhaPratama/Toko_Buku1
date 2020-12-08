@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Buku.aspx.cs" Inherits="Toko_Buku1.Buku" %>
+
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
