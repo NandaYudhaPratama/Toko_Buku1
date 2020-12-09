@@ -28,7 +28,7 @@
                         <a class="nav-link nav-pad" href="#">Contact US</a>
                         <a type="button" class="nav-pad btn btn-primary tombol" data-toggle="modal" data-target="#Login" >Login</a>
                         <a type="button" class="nav-pad btn btn-primary tombol" data-toggle="modal" data-target="#Account" >Create Account</a>
-                        <a href="Buku.aspx">Halaman setelah user login</a>
+                        <a href="BankBuku.aspx">Halaman setelah user login</a>
                     </div>
                 </div>
               </div>
@@ -116,6 +116,7 @@
             <h1 class="display-2">In The Palm Of Your Hand</h1>
         </div>
      </div>
+
 
     <!-- Option 1: Bootstrap Bundle with Popper.js -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-popRpmFF9JQgExhfw5tZT4I9/CI5e2QcuUZPOVXb1m7qUmeR2b50u+YFEYe1wgzy" crossorigin="anonymous"></script>

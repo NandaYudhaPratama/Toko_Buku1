@@ -10,6 +10,6 @@
 namespace Toko_Buku1 {
     
     
-    public partial class Buku {
+    public partial class WebForm1 {
     }
 }
