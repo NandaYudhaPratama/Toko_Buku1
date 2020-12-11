@@ -94,7 +94,7 @@
                 <div class="col">
                     <div class="card h-100 mb-3 shadow p-3 mb-5 bg-white rounded" style="max-width: 18rem;">
                         <div style ="width:100%; padding-top:15px; text-align:center">
-                            <img src="img/buku/PsikologiIndonesia.JPG" style="width:150px; height:200px ;">
+                            <img src="img/buku/3.JPG" style="width:150px; height:200px ;">
                         </div>
                         <div class="card-body">
                             <h5 class="card-title text-center">Judul buku</h5>
@@ -117,32 +117,8 @@
 
                 <div class="col">
                     <div class="card h-100 mb-3 shadow-lg p-3 mb-5 bg-white rounded" style="max-width: 18rem;">
-                        <div style="width:100%; padding-top:15px; text-align:center">
-                            <img src="img/buku/PsikologiIndonesia.JPG" style="width:150px; height:200px ;">
-                        </div>
-
-                        <div class="card-body">
-                            <h5 class="card-title text-center">Judul buku</h5>
-                            <p class="card-text text-center"><small class="text-muted">Nama Pengarang</small></p>
-                        </div>
-                        <div class="card-footer bg-transparent">
-                            <div class="row">
-                                <div class="col-sm-8 harga-tengah">Rp 100.000,00</div>
-                                <div class="col-sm-4">
-                                    <button type="button" class="btn btn-outline-primary tombol2">
-                                        <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-handbag-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M8 1a2 2 0 0 0-2 2v2H5V3a3 3 0 0 1 6 0v2h-1V3a2 2 0 0 0-2-2zM5 5H3.361a1.5 1.5 0 0 0-1.483 1.277L.85 13.13A2.5 2.5 0 0 0 3.322 16h9.356a2.5 2.5 0 0 0 2.472-2.87l-1.028-6.853A1.5 1.5 0 0 0 12.64 5H11v1.5a.5.5 0 0 1-1 0V5H6v1.5a.5.5 0 0 1-1 0V5z"></path>
-                                        </svg>
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="card h-100 mb-3 shadow-lg p-3 mb-5 bg-white rounded" style="max-width: 18rem;">
-                        <div style="width:100%; padding-top:15px; text-align:center">
-                            <img src="img/buku/PsikologiIndonesia.JPG" style="width:150px; height:200px ;">
+                        <div style="width:100%; padding-top:55px; text-align:center">
+                            <img src="img/buku/1.JPG" style="width:150px; height:160px ;">
                         </div>
 
                         <div class="card-body">
@@ -166,7 +142,31 @@
                 <div class="col">
                     <div class="card h-100 mb-3 shadow-lg p-3 mb-5 bg-white rounded" style="max-width: 18rem;">
                         <div style="width:100%; padding-top:15px; text-align:center">
-                            <img src="img/buku/PsikologiIndonesia.JPG" style="width:150px; height:200px ;">
+                            <img src="img/buku/LifeIsBoring.JPG" style="width:150px; height:200px ;">
+                        </div>
+
+                        <div class="card-body">
+                            <h5 class="card-title text-center">Judul buku</h5>
+                            <p class="card-text text-center"><small class="text-muted">Nama Pengarang</small></p>
+                        </div>
+                        <div class="card-footer bg-transparent">
+                            <div class="row">
+                                <div class="col-sm-8 harga-tengah">Rp 100.000,00</div>
+                                <div class="col-sm-4">
+                                    <button type="button" class="btn btn-outline-primary tombol2">
+                                        <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-handbag-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M8 1a2 2 0 0 0-2 2v2H5V3a3 3 0 0 1 6 0v2h-1V3a2 2 0 0 0-2-2zM5 5H3.361a1.5 1.5 0 0 0-1.483 1.277L.85 13.13A2.5 2.5 0 0 0 3.322 16h9.356a2.5 2.5 0 0 0 2.472-2.87l-1.028-6.853A1.5 1.5 0 0 0 12.64 5H11v1.5a.5.5 0 0 1-1 0V5H6v1.5a.5.5 0 0 1-1 0V5z"></path>
+                                        </svg>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100 mb-3 shadow-lg p-3 mb-5 bg-white rounded" style="max-width: 18rem;">
+                        <div style="width:100%; padding-top:15px; text-align:center">
+                            <img src="img/buku/Mindset.JPG" style="width:150px; height:200px ;">
                         </div>
 
                         <div class="card-body">
